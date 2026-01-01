@@ -14,9 +14,8 @@ This project demonstrates hands-on understanding of **camera projection models**
 ✔️ Estimates **camera intrinsics** (fx, fy, cx, cy)
 ✔️ Recovers **camera extrinsics** (rotation + translation)
 ✔️ Implements the full **projection pipeline**:
-[
-\mathbf{x} = \mathbf{K}[\mathbf{R}|\mathbf{T}]\mathbf{X}
-]
+
+x = K · [R | T] · X
 
 ---
 
